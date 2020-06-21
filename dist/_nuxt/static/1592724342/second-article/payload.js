@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/second-article", (function(a,b){return {data:[{id:"second-article",createdAt:b,updatedAt:"2020-06-21T07:14:07.578Z",publishedAt:b,title:"2番目の記事",body:"\u003Cp\u003E2番目の記事\u003C\u002Fp\u003E",category:{id:"zdm3m2i8n",createdAt:a,updatedAt:a,publishedAt:a,name:"HTML"}}],fetch:[],mutations:void 0}}("2020-06-21T06:58:24.792Z","2020-06-21T07:05:24.603Z")));

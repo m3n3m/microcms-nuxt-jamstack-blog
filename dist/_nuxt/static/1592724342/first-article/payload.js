@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/first-article", (function(a){return {data:[{id:"first-article",createdAt:a,updatedAt:"2020-06-21T05:31:31.466Z",publishedAt:a,title:"最初の記事",body:"\u003Cp\u003E最初の記事の本文\u003C\u002Fp\u003E",category:null}],fetch:[],mutations:void 0}}("2020-06-21T05:29:59.357Z")));
